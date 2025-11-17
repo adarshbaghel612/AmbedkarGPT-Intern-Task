@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+faiss-cpu
+unstructured
+pypdf
+requests
+python-dotenv
+streamlit
